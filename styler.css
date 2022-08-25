@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300&family=Montserrat&family=Noto+Sans:wght@400;700&family=Poppins:wght@300;600&family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(235, 228, 228);
+}
+
+
+.photo{
+    box-sizing: border-box;
+    position: absolute;
+    left: 150px;
+    top: 100px;
+    border-radius: 50%;
+    
+}
+
+
+.status{
+    display: flex;
+    position: absolute;
+    width: 400px;
+    height: 150px;
+    box-sizing: border-box;
+    background-color:  rgb(214, 94, 51);
+    border-radius: 20%;
+    left: 90px;
+    top: 370px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.aa{
+    background-color: rgb(214, 94, 51);
+}
+.status > h4{
+    color: white;
+}
+
+
+.info{
+    box-sizing: border-box;
+    position: absolute;
+    left: 150px;
+    top: 550px;
+}
+.info > h3{
+    color:  rgb(214, 94, 51);
+}
+
+
+.pesso{
+    width: 300px;
+    height: 300px;
+    box-sizing: border-box;
+    position: absolute;
+    background-color: white;
+    left: 600px;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    font-size:larger;
+}
+.pesso > h3{
+    color: rgb(214, 94, 51);
+}
+
+.uni{
+    width: 300px;
+    height: 210px;
+    box-sizing: border-box;
+    position: absolute;
+    background-color: white;
+    left: 600px;
+    top: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    font-size:larger;
+}
+.uni > h3{
+   color: rgb(214, 94, 51);
+}
+.skils{
+    width: 400px;
+    height: 270px;
+    box-sizing: border-box;
+    position: absolute;
+    background-color: white;
+    left: 600px;
+    top: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    font-size:larger;
+}
+.skils > h2{
+    color: rgb(214, 94, 51);
+}
+.a{
+    background-color: white;
+}
+
+.git{
+    width: 400px;
+    height:500px;
+    box-sizing: border-box;
+    position: absolute;
+    background-color: white;
+    left: 1000px;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    font-size:larger;
+}
+
+.git > h2{
+    background-color: white;
+    color: rgb(214, 94, 51) ;
+}
+
+.gg{
+    position: absolute;
+    width:200px;
+    height: 100px;
+    background-color: white;
+    left: 100px;
+    top: 350px;
+}
+
+.mario{
+    position: absolute;
+    width:200px;
+    height: 150px;
+    background-color: white;
+    left:100px;
+}
